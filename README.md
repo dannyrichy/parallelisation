@@ -1,0 +1,2 @@
+# parallelisation
+Experimenting with mpi 
