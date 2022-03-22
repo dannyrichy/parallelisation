@@ -2,7 +2,6 @@
 #include<complex.h>
 #include<stdlib.h>
 #include<mpi.h>
-#include<math.h>
 
 unsigned char cal_pixel(double complex d, double b, unsigned char N){
     unsigned char count = 1;
